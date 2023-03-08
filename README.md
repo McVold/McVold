@@ -4,9 +4,13 @@
 <a href="https://www.github.com/McVold" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/McVold?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Технологии
+### Навыки
 
-[![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,gulp,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,jquery,gulp,webpack)](https://skillicons.dev)
+
+### Инструменты
+
+[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode)](https://skillicons.dev)
 
 ### Socials
 
