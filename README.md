@@ -1,16 +1,22 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Владимир
+# Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Владимир
 ================================================================================================================================
 
 <a href="https://www.github.com/McVold" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/McVold?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+---
+
 ### Навыки
 
 [![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,jquery,gulp,webpack)](https://skillicons.dev)
 
+---
+
 ### Инструменты
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode)](https://skillicons.dev)
+
+---
 
 ### Socials
 
@@ -22,7 +28,10 @@ src="https://img.shields.io/github/followers/McVold?logo=github&style=for-the-ba
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="" target="_blank">
+        
   </div>
+    
+---
   
 ### Badges
 
