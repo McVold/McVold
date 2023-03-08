@@ -5,6 +5,14 @@ src="https://img.shields.io/github/followers/McVold?logo=github&style=for-the-ba
 
 ---
 
+### Обо мне
+
+Начинающий frontand-разработчик:computer:. Начал с обучения в html-academy, прошел там курс Старт в академии. Остальное обучение по созданию сайтов проходил уже на тестовых и "боевых" проектах, параллельно расширяя навыки и умения. На текущем этапе пишу сайты на Pug, SCSS и JS, пользуясь сборщиком GULP. Через Webpack собираю JS файлы в один. 
+
+Но не данным подходом един. В случае необходимости могу применять в работе и другие технологии (полный список в разделе "Навыки"). 
+
+---
+
 ### Навыки
 
 [![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,jquery,gulp,webpack)](https://skillicons.dev)
@@ -17,7 +25,7 @@ src="https://img.shields.io/github/followers/McVold?logo=github&style=for-the-ba
 
 ---
 
-### Socials
+### Социальные сети
 
 <div id="badges">
     <a href="https://t.me/mc_vold" target="_blank">
